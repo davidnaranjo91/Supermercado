@@ -42,7 +42,7 @@ var product5 = new VariablePriceProduct()
 };
 
 Console.WriteLine("Products \t\n");
-Console.WriteLine("--------------------------------------"\n);
+Console.WriteLine("--------------------------------------\n");
 
 Console.WriteLine($"{product1}\n");
 Console.WriteLine($"{product2}\n");
